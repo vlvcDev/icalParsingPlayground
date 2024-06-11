@@ -15,7 +15,6 @@ const referenceLocation = {
     longitude: -105.00600561574313
 };
 
-// Function to calculate distance in miles
 function calculateDistance(coord1, coord2) {
     const distance = geolib.getDistance(coord1, coord2);
     return geolib.convertDistance(distance, 'mi'); 
@@ -184,7 +183,7 @@ async function main() {
     const url = 'https://www.trumba.com/calendars/msudenver-events-calendars.ics';
     const events = await fetchAndParseIcal(url);
 
-    // Print events
+    // Print events, yeehaw
     events.forEach(event => {
         const eventInfo = `Title: ${event.title}\n` +
                           `Start: ${event.start}\n` +
