@@ -143,6 +143,7 @@ async function checkAddress(address) {
         const response = await axios.get(url);
         console.log(`Geocode API response for "${address}":`, response.data); // Log the API response
 
+        // Check if the API response is successful and has results
         if (response.data.status === 'OK') {
             const results = response.data.results;
             const validResults = results.map(result => ({
@@ -153,26 +154,29 @@ async function checkAddress(address) {
                 }
             }));
 
-            // Calculate distances and find the closest result
+            // Calculate the distances from the address to the reference location (Auraria Campus)
             const distances = validResults.map(result => ({
                 ...result,
                 distance: calculateDistance(referenceLocation, result.location)
             }));
 
-            // 
+            // Sort the locations by distance and find the closest one
             const closestResult = distances.reduce((prev, curr) => prev.distance < curr.distance ? prev : curr, distances[0]);
 
             if (closestResult.distance <= 5) {
                 if (validResults.length === 1) {
+                    // 'yes' means the address is valid and there are no other possible addresses
                     return { isValidAddress: true, formattedAddress: closestResult.address, validityLabel: 'yes' };
                 } else {
+                    // 'maybe' means the address is valid but there are other possible addresses
                     return { isValidAddress: true, formattedAddress: closestResult.address, validityLabel: 'maybe' };
                 }
             } else {
+                // 'maybe not' means the addresses are 'OK' but are too far away
                 return { isValidAddress: true, formattedAddress: closestResult.address, validityLabel: 'maybe not' };
             }
         }
-
+        // If we reach this point, the address must be invalid
         return { isValidAddress: false, formattedAddress: '', validityLabel: 'no' };
     } catch (error) {
         console.error('Error checking address:', error);
@@ -184,7 +188,7 @@ async function main() {
     const url = 'https://www.trumba.com/calendars/msudenver-events-calendars.ics';
     const events = await fetchAndParseIcal(url);
 
-    // Print events, yeehaw
+    // Write events to results.txt
     events.forEach(event => {
         const eventInfo = `Title: ${event.title}\n` +
                           `Start: ${event.start}\n` +
