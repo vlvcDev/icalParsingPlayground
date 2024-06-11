@@ -11,6 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
     "geolib": "^3.3.4",
     "he": "^1.2.0",
