@@ -3,15 +3,13 @@ const he = require('he');
 const axios = require('axios');
 const geolib = require('geolib');
 
-const API_KEY = 'AIzaSyAa6HhvAtIuWz170s-B_i2GeFprgFcIoHM'; // Replace with your actual API key
+const API_KEY = 'YOUR API KEY HERE'; // Replace with your actual API key
 
-// Define the reference location (e.g., a central point on the campus)
 const referenceLocation = {
     latitude: 39.74318700108676, // Coordinates in the middle of Auraria Campus
     longitude: -105.00600561574313
 };
 
-// Function to calculate distance in miles
 function calculateDistance(coord1, coord2) {
     const distance = geolib.getDistance(coord1, coord2);
     return geolib.convertDistance(distance, 'mi'); // Convert meters to miles
@@ -27,7 +25,6 @@ const buildingCodeToAddress = {
     "STC": "1201 5th St, Denver, CO 80204",
     "SAC": "777 Lawrence Way, Denver, CO 80204",
     "Science Building": "1150 12th St, Denver, CO 80204" 
-    // Add other mappings here
 };
 
 async function fetchAndParseIcal(url) {
@@ -50,7 +47,7 @@ async function fetchAndParseIcal(url) {
 
                 // Filter out events that are not happening today or later
                 if (event.start >= today && !isRemoteEvent(cleanedLocation)) {
-                    console.log(`Checking address: ${cleanedLocation}`); // Log the address being checked
+                    console.log(`Checking address: ${cleanedLocation}`); // Log the address being checked for debugging
                     const { isValidAddress, formattedAddress, validityLabel } = await checkAddress(cleanedLocation);
                     console.log(`Address valid: ${isValidAddress}, Label: ${validityLabel}, Geocoded Address: ${formattedAddress}`); // Log the validation result
                     parsedEvents.push({
@@ -158,7 +155,7 @@ async function main() {
     const url = 'https://www.trumba.com/calendars/msudenver-events-calendars.ics';
     const events = await fetchAndParseIcal(url);
 
-    // Print events
+    // Print events, yeehaw
     events.forEach(event => {
         console.log(`Title: ${event.title}`);
         console.log(`Start: ${event.start}`);
