@@ -40,7 +40,7 @@ const buildingCodeToAddress = {
     // Add other mappings here
 };
 
-async function fetchAndParseIcal(url) {
+async function fetchAndParseIcal(url, seenUIDs) {
     try {
         const events = await ical.async.fromURL(url);
         const today = new Date();
@@ -49,10 +49,13 @@ async function fetchAndParseIcal(url) {
         // This array will store all parsed events that make it past the filters
         const parsedEvents = [];
 
+
         for (const event of Object.values(events)) {
             // Events in ical are labeled as 'VEVENT'
-            if (event.type === 'VEVENT') {
+            if (event.type === 'VEVENT' && !seenUIDs.has(event.uid)) {
                 // Using the node-ical package, we can access properties of the event like this
+                // UIDs are unique identifiers for events, so we can use this to filter out duplicates
+                seenUIDs.add(event.uid);
                 const eventTitle = event.summary || '';
                 const eventStart = event.start || '';
                 const eventEnd = event.end || '';
@@ -67,6 +70,7 @@ async function fetchAndParseIcal(url) {
                     const { isValidAddress, formattedAddress, validityLabel } = await checkAddress(cleanedLocation);
                     // console.log(`Address valid: ${isValidAddress}, Label: ${validityLabel}, Geocoded Address: ${formattedAddress}`);
                     parsedEvents.push({
+                        uid: event.uid,
                         title: eventTitle,
                         start: eventStart,
                         end: eventEnd,
@@ -185,12 +189,24 @@ async function checkAddress(address) {
 }
 
 async function main() {
-    const url = 'https://www.trumba.com/calendars/msudenver-events-calendars.ics';
-    const events = await fetchAndParseIcal(url);
+    const urls = [
+        'https://www.trumba.com/calendars/msudenver-events-calendars.ics',
+        'webcal://www.trumba.com/calendars/msu-denver-events-calendars-theatre-dance.ics',
+        'https://roadrunnerlink.msudenver.edu/events.ics'
+    ];
+    const seenUIDs = new Set();
+    const allEvents = [];
+
+    for (const url of urls) {
+        const events = await fetchAndParseIcal(url, seenUIDs);
+        allEvents.push(...events);
+    }
 
     // Write events to results.txt
+    fs.writeFileSync('results.txt', ''); // Clear the contents of results.txt
     events.forEach(event => {
-        const eventInfo = `Title: ${event.title}\n` +
+        const eventInfo = 'UID: ${event.uid}\n' + 
+                        `Title: ${event.title}\n` +
                           `Start: ${event.start}\n` +
                           `End: ${event.end}\n` +
                           `Description: ${event.description}\n` +
