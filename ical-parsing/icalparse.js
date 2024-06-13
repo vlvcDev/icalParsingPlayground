@@ -1,15 +1,18 @@
-// npm install node-ical he axios geolib dotenv fs
+// npm install node-ical he axios geolib dotenv fs natural
 const ical = require('node-ical');
 const he = require('he');
 const axios = require('axios');
 const geolib = require('geolib');
 const fs = require('fs');
+const natural = require('natural');
+const tokenizer = new natural.WordTokenizer();
+const stemmer = natural.PorterStemmer;
 require('dotenv').config()
 
 // Make a .env file and add your Google Maps API key like this:
 // GoogleMapsAPI=thisistheapikey
 // DATABASE_HOST=localhost
-const API_KEY = process.env.GoogleMapsAPI; 
+const API_KEY = process.env.GoogleMapsAPI;
 
 const referenceLocation = {
     latitude: 39.74318700108676, // Coordinates somewhere in the middle of Auraria Campus
@@ -40,6 +43,29 @@ const buildingCodeToAddress = {
     // Add other mappings here
 };
 
+// These tags will be assigned to events based on keywords in the title and description
+const tags = {
+    "academic": ["lecture", "seminar", "class", "course", "academic", "education", "study", "research"],
+    "career": ["career", "job fair", "internship", "employment", "resume", "interview"],
+    "training": ["training", "workshop", "session", "learn", "skill", "development"],
+    "holiday": ["holiday", "independence day", "thanksgiving", "christmas", "new year", "halloween"],
+    "administrative": ["office", "admin", "administrative"],
+    "fitness": ["zumba", "fitness", "workout", "health", "exercise", "yoga", "gym", "hiking", "running", "cycling"],
+    "professional development": ["professional development", "skills", "growth", "leadership"],
+    "arts and culture": ["art", "culture", "exhibition", "walk", "gallery", "museum", "performance"],
+    "technology": ["technology", "tech", "computer", "software", "coding", "programming", "webinar", "hackathon"],
+    "community engagement": ["community", "engage", "outreach", "volunteer", "service", "activism"],
+    "health and wellness": ["health", "wellness", "wellbeing", "nutrition", "mental health", "self-care"],
+    "social": ["social", "party", "celebration", "happy hour", "mixer", "reception"],
+    "sports": ["sports", "game", "tournament", "match", "competition", "athletics", "volleyball", "basketball", "soccer", "football"],
+    "music": ["music", "concert", "performance", "band", "orchestra", "choir"],
+    "film": ["film", "movie", "screening", "cinema", "documentary", "short film"],
+    "esports": ["esports", "gaming"],
+    "food and drink": ["food", "drink", "dining", "restaurant", "cooking", "culinary", "beer", "wine"],
+    "club": ["club", "organization", "society"],
+    "political": ["political", "politics", "government", "election", "voting", "democracy"],
+};
+
 async function fetchAndParseIcal(url, seenUIDs) {
     try {
         const events = await ical.async.fromURL(url);
@@ -68,7 +94,7 @@ async function fetchAndParseIcal(url, seenUIDs) {
                 if (event.start >= today) {
                     // console.log(`Checking address: ${cleanedLocation}`); 
                     const { isValidAddress, formattedAddress, validityLabel } = await checkAddress(cleanedLocation);
-                    // console.log(`Address valid: ${isValidAddress}, Label: ${validityLabel}, Geocoded Address: ${formattedAddress}`);
+                    const eventTags = assignTags(eventTitle, eventDescription);
                     parsedEvents.push({
                         uid: event.uid,
                         title: eventTitle,
@@ -80,10 +106,11 @@ async function fetchAndParseIcal(url, seenUIDs) {
                         cleanedLocation: cleanedLocation,
                         isValidLocation: validityLabel,
                         geocodedAddress: formattedAddress,
-                        googleMapsUrl: generateGoogleMapsUrl(cleanedLocation)
+                        googleMapsUrl: generateGoogleMapsUrl(cleanedLocation),
+                        tags: eventTags
                     });
                     if (isRemoteEvent(cleanedLocation)) {
-                        parsedEvents[parsedEvents.length - 1].isValidLocation = 'remote';
+                        parsedEvents[parsedEvents.length - 1].isValidLocation = 'valid and remote';
                     }
                 }
             }
@@ -188,25 +215,46 @@ async function checkAddress(address) {
     }
 }
 
+function assignTags(eventTitle, eventDescription) {
+    // Tokenize the event title and description, stem the tokens, and assign tags based on keywords
+    // Tokenizing is the process of splitting text into individual words or tokens
+    // Stemming is the process of reducing words to their root form (e.g., 'running' -> 'run')
+    const text = `${eventTitle} ${eventDescription}`.toLowerCase();
+    const tokens = tokenizer.tokenize(text);
+    const stemmedTokens = tokens.map(token => stemmer.stem(token));
+    const assignedTags = [];
+
+    // Check if any of the stemmed tokens match the keywords for each tag
+    for (const [tag, keywords] of Object.entries(tags)) {
+        for (const keyword of keywords) {
+            const stemmedKeyword = stemmer.stem(keyword.toLowerCase());
+            if (stemmedTokens.includes(stemmedKeyword)) {
+                assignedTags.push(tag);
+                break;
+            }
+        }
+    }
+    // If no tags are assigned, default to 'Uncategorized'
+    return assignedTags.length ? assignedTags : ['Uncategorized'];
+}
+
 async function main() {
     const urls = [
         'https://www.trumba.com/calendars/msudenver-events-calendars.ics',
-        'webcal://www.trumba.com/calendars/msu-denver-events-calendars-theatre-dance.ics',
-        'https://roadrunnerlink.msudenver.edu/events.ics'
     ];
     const seenUIDs = new Set();
     const allEvents = [];
 
     for (const url of urls) {
         const events = await fetchAndParseIcal(url, seenUIDs);
-        allEvents.push(...events);
+        allEvents.push(...events); // The ... in this line is the spread operator, which unpacks the array
     }
 
     // Write events to results.txt
-    fs.writeFileSync('results.txt', ''); // Clear the contents of results.txt
-    events.forEach(event => {
-        const eventInfo = 'UID: ${event.uid}\n' + 
-                        `Title: ${event.title}\n` +
+    fs.writeFileSync('results.txt', ''); // Clear the contents of results.txt before writing
+    allEvents.forEach(event => {
+        const eventInfo = `UID: ${event.uid}\n` + 
+                          `Title: ${event.title}\n` +
                           `Start: ${event.start}\n` +
                           `End: ${event.end}\n` +
                           `Description: ${event.description}\n` +
@@ -221,7 +269,8 @@ async function main() {
         }
 
         const locationInfo = `Geocoded Address: ${event.geocodedAddress}\n` +
-                             `Google Maps URL: ${event.googleMapsUrl}\n`;
+                             `Google Maps URL: ${event.googleMapsUrl}\n` +
+                             `Tags: ${event.tags.join(', ')}\n`;
 
         fs.appendFileSync('results.txt', eventInfo + locationInfo + '---\n');
     });

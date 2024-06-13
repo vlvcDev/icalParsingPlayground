@@ -1,41 +1,4 @@
-Title: Office of the Controller: Spend Authorization &amp; Expense Report Training
-Start: Tue Jun 11 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
-End: Tue Jun 11 2024 09:30:00 GMT-0600 (Mountain Daylight Time)
-Description: Welcome to the Office of the Controller Year-End training! This will give you information on year-end deadlines, and help you navigate through year-end processes.
-URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
-Original Location: Microsoft Teams Meeting
-Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
----
-Title: Staff Senate Meeting
-Start: Tue Jun 11 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
-End: Tue Jun 11 2024 11:30:00 GMT-0600 (Mountain Daylight Time)
-Description: Senators and all staff, including administrative staff, classified staff, and student employees, have the opportunity to participate in shared governance through monthly Staff Senate meetings that are open to all staff, as well as through standing and ad hoc committees, yearly social events, and professional development activities.
-URL: https://msudenver.sharepoint.com/sites/staffsenate/_layouts/15/Event.aspx?ListGuid=5fdb007b-96ea-437d-b980-8e92f54b579c&ItemId=80
-Original Location: Microsoft Teams
-Cleaned Location: Microsoft Teams
-Valid Location: remote
----
-Title: Office of the Controller: Create Receipt Training
-Start: Tue Jun 11 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
-End: Tue Jun 11 2024 10:30:00 GMT-0600 (Mountain Daylight Time)
-Description: Welcome to the Office of the Controller Year-End training! This will give you information on year-end deadlines, and help you navigate through year-end processes.
-URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
-Original Location: Microsoft Teams Meeting
-Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
----
-Title: Healthy Pursuits, Zumba
-Start: Tue Jun 11 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
-End: Tue Jun 11 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
-Description: In a world where workouts often feel like a chore, Zumba is a beacon of fun, rhythm, and vitality. Beyond just burning calories, Zumba offers a holistic approach to fitness, encompassing physical, mental, and social benefits. So, grab your sneakers, embrace the rhythm, and let Zumba lead you on a transformative journey toward a healthier, happier you.&#160;Cathy, our longtime instructor, is a licensed Zumba&#174; Instructor, and is a former member of Joda &amp; Friends, African Dance and Drumming.&#160; Participants will dance to a variety of rhythms: merengue, salsa, cumbia, reggaeton, Bollywood and pop.&#160; Cathy encourages people to find their own expression of dance in her class.
-URL: https://healthcenter1.com/healthy-pursuits/
-Original Location: PE 116
-Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
-Valid Location: yes
-Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
-Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
----
+UID: http://uid.trumba.com/event/174696248
 Title: Office of the Controller: Fiscal Year-End Training
 Start: Wed Jun 12 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 12 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
@@ -43,8 +6,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/175171231
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jun 12 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 12 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -52,8 +19,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/166700480
 Title: 100% Refund Deadline for Summer 2024 Full-Semester Courses
 Start: Thu Jun 13 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Jun 14 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -64,7 +35,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/166700641
 Title: Last Day to Self-Register for Summer 2024 Full-Semester Courses
 Start: Thu Jun 13 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Jun 14 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -75,7 +48,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/175284228
 Title: Office of the Controller: Verify Procurement Card Transactions
 Start: Fri Jun 14 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Jun 14 2024 11:30:00 GMT-0600 (Mountain Daylight Time)
@@ -83,8 +58,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/174751653
 Title: Office of the Controller: Spend Authorization &amp; Expense Report Training
 Start: Mon Jun 17 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 17 2024 09:30:00 GMT-0600 (Mountain Daylight Time)
@@ -92,8 +71,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/174751648
 Title: Office of the Controller: Create Receipt Training
 Start: Mon Jun 17 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 17 2024 10:30:00 GMT-0600 (Mountain Daylight Time)
@@ -101,8 +84,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/175138326
 Title: Info Session - Master of Professional Accountancy (MPAcc)
 Start: Mon Jun 17 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 17 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
@@ -110,8 +97,12 @@ Description: The MSU Denver Master of Professional Accountancy (MPAcc) program o
 URL: https://www.eventbrite.com/e/info-session-master-of-professional-accountancy-mpacc-tickets-917496927007?aff=oddtdtcreator
 Original Location: Virtual - Zoom Meeting
 Cleaned Location: Virtual - Zoom Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Virtual%20-%20Zoom%20Meeting
+Tags: academic, career, training, professional development, technology, community engagement
 ---
+UID: http://uid.trumba.com/event/175138648
 Title: Info Session - Master of Professional Accountancy (MPAcc)
 Start: Mon Jun 17 2024 17:30:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 17 2024 18:30:00 GMT-0600 (Mountain Daylight Time)
@@ -119,8 +110,12 @@ Description: The MSU Denver Master of Professional Accountancy (MPAcc) program o
 URL: https://www.eventbrite.com/e/evening-info-session-master-of-professional-accountancy-mpacc-tickets-917526375087?aff=oddtdtcreator
 Original Location: Virtual - Zoom Meeting
 Cleaned Location: Virtual - Zoom Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Virtual%20-%20Zoom%20Meeting
+Tags: academic, career, training, professional development, technology, community engagement
 ---
+UID: http://uid.trumba.com/event/166701164
 Title: 50% Refund Deadline for Summer 2024 Full-Semester (8-wk) Courses
 Start: Tue Jun 18 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 19 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -131,7 +126,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/166701017
 Title: In-State Correction and WUE Form Deadline
 Start: Tue Jun 18 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 19 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -142,7 +139,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/174696250
 Title: Office of the Controller: Fiscal Year-End Training
 Start: Tue Jun 18 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 18 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
@@ -150,8 +149,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/175284230
 Title: Office of the Controller: Verify Procurement Card Transactions
 Start: Tue Jun 18 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 18 2024 11:30:00 GMT-0600 (Mountain Daylight Time)
@@ -159,8 +162,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/174967830
 Title: Healthy Pursuits, Zumba
 Start: Tue Jun 18 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 18 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -171,7 +178,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/166700644
 Title: Juneteenth Holiday (Campus Closed)
 Start: Wed Jun 19 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jun 20 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -182,7 +191,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: holiday
 ---
+UID: http://uid.trumba.com/event/175171232
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jun 19 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 19 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -190,8 +201,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/174809450
 Title: 2024 Refugee Speakers Bureau Showcase
 Start: Thu Jun 20 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jun 20 2024 21:00:00 GMT-0600 (Mountain Daylight Time)
@@ -202,7 +217,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: social
 ---
+UID: http://uid.trumba.com/event/174054540
 Title: Watershed Summit
 Start: Fri Jun 21 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Jun 22 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -213,7 +230,9 @@ Cleaned Location: Denver Botanic Gardens, York Street
 Valid Location: yes
 Geocoded Address: Denver Botanic Gardens, 1007 York St, Denver, CO 80206, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%20Botanic%20Gardens%2C%20York%20Street
+Tags: training, community engagement, music
 ---
+UID: http://uid.trumba.com/event/161879356
 Title: Monthly Mug Club Happy Hour
 Start: Fri Jun 21 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Jun 22 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
@@ -224,7 +243,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/174696251
 Title: Office of the Controller: Fiscal Year-End Training
 Start: Mon Jun 24 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 24 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
@@ -232,8 +253,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/175284231
 Title: Office of the Controller: Verify Procurement Card Transactions
 Start: Mon Jun 24 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Jun 24 2024 11:30:00 GMT-0600 (Mountain Daylight Time)
@@ -241,8 +266,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/172647904
 Title: June 25 State Primary Election
 Start: Tue Jun 25 2024 08:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 25 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
@@ -253,7 +282,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: social, political
 ---
+UID: http://uid.trumba.com/event/174751654
 Title: Office of the Controller: Spend Authorization &amp; Expense Report Training
 Start: Tue Jun 25 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 25 2024 09:30:00 GMT-0600 (Mountain Daylight Time)
@@ -261,8 +292,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/174751649
 Title: Office of the Controller: Create Receipt Training
 Start: Tue Jun 25 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 25 2024 10:30:00 GMT-0600 (Mountain Daylight Time)
@@ -270,8 +305,12 @@ Description: Welcome to the Office of the Controller Year-End training! This wil
 URL: https://msudenver.sharepoint.com/sites/OTC/SitePages/Year-End.aspx
 Original Location: Microsoft Teams Meeting
 Cleaned Location: Microsoft Teams Meeting
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20Meeting
+Tags: training, administrative
 ---
+UID: http://uid.trumba.com/event/174967831
 Title: Healthy Pursuits, Zumba
 Start: Tue Jun 25 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 25 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -282,7 +321,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175137669
 Title: Summer Workshop: Time Management, Online Study Skills, &amp; MSU Denver Resources
 Start: Tue Jun 25 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jun 25 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
@@ -290,8 +331,12 @@ Description: <a href=https://teams.microsoft.com/l/meetup-join/19%3ameeting_Njdm
 URL: https://www.msudenver.edu/online/student-success-coaching/
 Original Location: Teams (Link in description)
 Cleaned Location: Teams (Link in description)
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Teams%20(Link%20in%20description)
+Tags: academic, training, professional development
 ---
+UID: http://uid.trumba.com/event/175171233
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jun 26 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jun 26 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -299,8 +344,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/174814381
 Title: SNAPlication Station
 Start: Thu Jun 27 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jun 27 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
@@ -311,7 +360,9 @@ Cleaned Location: 1100 Lawrence St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1100 Lawrence St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1100%20Lawrence%20St%2C%20Denver%2C%20CO%2080204
+Tags: fitness, technology, health and wellness, food and drink
 ---
+UID: http://uid.trumba.com/event/174728264
 Title: Opioid Overdose Response Training
 Start: Thu Jun 27 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jun 27 2024 14:30:00 GMT-0600 (Mountain Daylight Time)
@@ -319,8 +370,25 @@ Description: Join us virtually for the Summer Semester, each month, for invaluab
 URL: https://us02web.zoom.us/j/83442788805
 Original Location: Zoom
 Cleaned Location: Zoom
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Zoom
+Tags: training, community engagement
 ---
+UID: http://uid.trumba.com/event/175320947
+Title: RMNP Backpacking Trip
+Start: Fri Jun 28 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Mon Jul 01 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Join MSU Denver Outdoor Pursuits for an exhilarating two-day backpacking adventure in the majestic Rocky Mountain National Park. This trip will take you deep into the heart of the wilderness, where you&#8217;ll traverse scenic trails, witness awe-inspiring landscapes, and connect with the beauty of nature. Our knowledgeable guides will lead you through pine forests, past cascading waterfalls, and into alpine meadows bursting with wildflowers. Set up camp under the starlit sky and enjoy stories by the campfire. With each step, you&#8217;ll forge unforgettable memories and create a deep connection with this iconic national park.
+URL: https://www.msudenver.edu/recreation/outdoor-pursuits/
+Original Location: Off Campus - Rocky Mountain National Park
+Cleaned Location: Off Campus - Rocky Mountain National Park
+Valid Location: maybe not
+Geocoded Address: Rocky Mountain National Park, Colorado, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus%20-%20Rocky%20Mountain%20National%20Park
+Tags: Uncategorized
+---
+UID: http://uid.trumba.com/event/174967832
 Title: Healthy Pursuits, Zumba
 Start: Tue Jul 02 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 02 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -331,7 +399,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171234
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jul 03 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 03 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -339,8 +409,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/166701159
 Title: Independence Day Holiday  (Campus Closed)
 Start: Thu Jul 04 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Jul 05 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -351,7 +425,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: holiday
 ---
+UID: http://uid.trumba.com/event/118261558
 Title: First Friday Art Walk
 Start: Fri Jul 05 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Jul 05 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
@@ -362,7 +438,22 @@ Cleaned Location: Center for Visual Art, 965 Santa Fe Dr, Denver, CO
 Valid Location: yes
 Geocoded Address: 965 Santa Fe Dr, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Center%20for%20Visual%20Art%2C%20965%20Santa%20Fe%20Dr%2C%20Denver%2C%20CO
+Tags: arts and culture
 ---
+UID: http://uid.trumba.com/event/175289604
+Title: Rock Climbing Day Out
+Start: Sat Jul 06 2024 08:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Jul 06 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Join us for a day of rock climbing exploration! Learn techniques,<br><br>ropes, belaying, and anchor building in a relaxed, enjoyable atmosphere. There will be new topics on each of the three days!
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: training
+---
+UID: http://uid.trumba.com/event/166701166
 Title: Petition for In-State Tuition Form Deadline
 Start: Tue Jul 09 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 10 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -373,7 +464,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/174967833
 Title: Healthy Pursuits, Zumba
 Start: Tue Jul 09 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 09 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -384,7 +477,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171235
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jul 10 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 10 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -392,8 +487,25 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175289971
+Title: Rock Climbing Day Out
+Start: Sat Jul 13 2024 08:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Jul 13 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Join us for a day of rock climbing exploration! Learn techniques,<br><br>ropes, belaying, and anchor building in a relaxed, enjoyable atmosphere. There will be new topics on each of the three days!
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: training
+---
+UID: http://uid.trumba.com/event/166701176
 Title: Withdrawal Deadline for Summer 2024 (Full-Semester Courses - 8-week Courses)
 Start: Tue Jul 16 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 17 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -404,7 +516,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/174967834
 Title: Healthy Pursuits, Zumba
 Start: Tue Jul 16 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 16 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -415,7 +529,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171236
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jul 17 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 17 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -423,8 +539,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/161879357
 Title: Monthly Mug Club Happy Hour
 Start: Thu Jul 18 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jul 18 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
@@ -435,7 +555,22 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/175289978
+Title: Rock Climbing Day Out
+Start: Sat Jul 20 2024 08:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Jul 20 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Join us for a day of rock climbing exploration! Learn techniques,<br><br>ropes, belaying, and anchor building in a relaxed, enjoyable atmosphere. There will be new topics on each of the three days!
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: training
+---
+UID: http://uid.trumba.com/event/174967835
 Title: Healthy Pursuits, Zumba
 Start: Tue Jul 23 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 23 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -446,7 +581,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175138063
 Title: Summer Workshop: Growth &amp; Goals, Stress Management, &amp; Exam Prep
 Start: Tue Jul 23 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 23 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
@@ -454,8 +591,12 @@ Description: <a href=https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjA2
 URL: https://www.msudenver.edu/online/student-success-coaching/
 Original Location: Teams (Link in description)
 Cleaned Location: Teams (Link in description)
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Teams%20(Link%20in%20description)
+Tags: training, professional development
 ---
+UID: http://uid.trumba.com/event/175171237
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jul 24 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 24 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -463,8 +604,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/174814382
 Title: SNAPlication Station
 Start: Thu Jul 25 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jul 25 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
@@ -475,7 +620,9 @@ Cleaned Location: 1100 Lawrence St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1100 Lawrence St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1100%20Lawrence%20St%2C%20Denver%2C%20CO%2080204
+Tags: fitness, technology, health and wellness, food and drink
 ---
+UID: http://uid.trumba.com/event/174728307
 Title: Opioid Overdose Response Training
 Start: Thu Jul 25 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Jul 25 2024 14:30:00 GMT-0600 (Mountain Daylight Time)
@@ -483,8 +630,12 @@ Description: Join us virtually for the Summer Semester, each month, for invaluab
 URL: https://us02web.zoom.us/j/82169601950
 Original Location: Zoom
 Cleaned Location: Zoom
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Zoom
+Tags: training, community engagement
 ---
+UID: http://uid.trumba.com/event/174967836
 Title: Healthy Pursuits, Zumba
 Start: Tue Jul 30 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Jul 30 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -495,7 +646,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171238
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Jul 31 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Jul 31 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -503,8 +656,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/173019331
 Title: Summer 2024 Institutional COF Waiver Deadline
 Start: Fri Aug 02 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Aug 03 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -515,7 +672,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: administrative
 ---
+UID: http://uid.trumba.com/event/118261559
 Title: First Friday Art Walk
 Start: Fri Aug 02 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Aug 02 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
@@ -526,7 +685,9 @@ Cleaned Location: Center for Visual Art, 965 Santa Fe Dr, Denver, CO
 Valid Location: yes
 Geocoded Address: 965 Santa Fe Dr, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Center%20for%20Visual%20Art%2C%20965%20Santa%20Fe%20Dr%2C%20Denver%2C%20CO
+Tags: arts and culture
 ---
+UID: http://uid.trumba.com/event/166701184
 Title: Summer 2024 Classes End (Full-Semester, 8-Week Classes ONLY)
 Start: Sat Aug 03 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sun Aug 04 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -537,7 +698,22 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/175289889
+Title: Foothills Hike
+Start: Sun Aug 04 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Aug 04 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Join OP for an adventure through the enchanted Foothills, where<br><br>rolling hills and lush greenery await. This invigorating hike leads<br><br>you through scenic paths, revealing stunning vistas of sprawling<br><br>valleys and distant peaks. Explore hidden gems, encounter diverse<br><br>wildlife, and reconnect with nature&#8217;s tranquility in this idyllic hiking<br><br>paradise.
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: fitness
+---
+UID: http://uid.trumba.com/event/175138812
 Title: New Faculty Orientation (Tenure Track and Non-Tenure Track ONLY)
 Start: Mon Aug 05 2024 08:30:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 06 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
@@ -548,7 +724,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: training, technology, health and wellness, social
 ---
+UID: http://uid.trumba.com/event/175138824
 Title: Lunch with Chairs - New Faculty Orientation
 Start: Mon Aug 05 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Aug 05 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
@@ -559,7 +737,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175138831
 Title: Reception with Deans - New Faculty Orientation
 Start: Tue Aug 06 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 06 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
@@ -570,7 +750,9 @@ Cleaned Location: TBD
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=TBD
+Tags: social
 ---
+UID: http://uid.trumba.com/event/174967837
 Title: Healthy Pursuits, Zumba
 Start: Tue Aug 06 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 06 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -581,7 +763,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171239
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Aug 07 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Aug 07 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -589,8 +773,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/166701193
 Title: Summer 2024 Grades Due from Faculty before Noon
 Start: Thu Aug 08 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Aug 08 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -601,7 +789,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175138844
 Title: Adjunct New Faculty Orientation (Remote)
 Start: Thu Aug 08 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Aug 08 2024 16:30:00 GMT-0600 (Mountain Daylight Time)
@@ -609,8 +799,12 @@ Description: Welcome to MSU Denver!<br><br>We have both in-person and remote opt
 URL: 
 Original Location: Remote via Microsoft Teams
 Cleaned Location: Remote via Microsoft Teams
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Remote%20via%20Microsoft%20Teams
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/173053069
 Title: Fall 2024 Inter-Institutional Application Deadline
 Start: Fri Aug 09 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Aug 10 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -621,7 +815,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/166701205
 Title: Summer 2024 Grades Available Online in Student Hub
 Start: Fri Aug 09 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Aug 10 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -632,7 +828,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175138929
 Title: Adjunct New Faculty Orientation (In Person)
 Start: Fri Aug 09 2024 08:30:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Aug 09 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
@@ -643,7 +841,48 @@ Cleaned Location: 1201 5th St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1201 5th St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175289985
+Title: Front Range Hike
+Start: Sat Aug 10 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Aug 11 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Embark on an unforgettable journey through the stunning Front<br><br>Range, where majestic mountains meet the endless sky. This exhilarating hike weaves through picturesque landscapes, offering breathtaking vistas, cascading waterfalls, and vibrant wildflowers. Immerse<br><br>yourself in nature&#8217;s beauty as you traverse rugged trails, creating<br><br>cherished memories along the way.<br><br>Starting with gentle practice descents, you&#8217;ll gradually build confidence as you progress to more challenging rappel locations. Whether you&#8217;re a beginner looking to conquer your fear of heights or an<br><br>experienced climber seeking to refine your skills, this clinic offers a<br><br>unique opportunity to push your limits and experience the exhilaration of controlled descent amidst the stunning natural landscapes.
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: training, fitness, professional development
+---
+UID: http://uid.trumba.com/event/175289996
+Title: Rope Access-Basics of Rappelling
+Start: Sat Aug 10 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Aug 11 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Discover the thrill of vertical descent with MSU Denver Outdoor<br><br>Pursuits&#8217; Rappel Clinic. Designed for adventure enthusiasts of all<br><br>levels, this clinic provides a comprehensive introduction to the art<br><br>of rappelling. Under the guidance of experienced instructors, you&#8217;ll<br><br>learn essential techniques, safety protocols, and equipment usage.<br><br>Starting with gentle practice descents, you&#8217;ll gradually build confidence as you progress to more challenging rappel locations. Whether you&#8217;re a beginner looking to conquer your fear of heights or an<br><br>experienced climber seeking to refine your skills, this clinic offers a<br><br>unique opportunity to push your limits and experience the exhilaration of controlled descent amidst the stunning natural landscapes.
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: training, professional development, arts and culture
+---
+UID: http://uid.trumba.com/event/175289962
+Title: Front Range Hike
+Start: Sun Aug 11 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Aug 11 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Journey through the stunning Front Range, where majestic mountains meet the<br><br>endless sky. This exhilarating hike weaves through picturesque landscapes, offering breathtaking vistas, cascading waterfalls, and vibrant wildflowers. Immerse<br><br>yourself in nature&#8217;s beauty as you traverse rugged trails, creating cherished memories along the way.
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: fitness
+---
+UID: http://uid.trumba.com/event/175139160
 Title: Roadrunner Instructor Training - Both Day 1 &amp; 2
 Start: Mon Aug 12 2024 08:30:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 13 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
@@ -654,7 +893,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1201 5th St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204
+Tags: training, health and wellness
 ---
+UID: http://uid.trumba.com/event/173054884
 Title: Graduate: Fall 2024 Priority Registration Non-Degree Seeking
 Start: Mon Aug 12 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
 End: Mon Aug 12 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -665,7 +906,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/174967838
 Title: Healthy Pursuits, Zumba
 Start: Tue Aug 13 2024 17:15:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 13 2024 18:05:00 GMT-0600 (Mountain Daylight Time)
@@ -676,7 +919,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204, Room 116
 Valid Location: yes
 Geocoded Address: 1201 5th St #116, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204%2C%20Room%20116
+Tags: academic, fitness, social
 ---
+UID: http://uid.trumba.com/event/175171240
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Aug 14 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Aug 14 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -684,8 +929,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/171106098
 Title: MSU Denver Convocation
 Start: Thu Aug 15 2024 17:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Aug 15 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
@@ -696,7 +945,9 @@ Cleaned Location: 890 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 890 Auraria Pkwy, Denver, CO 80202, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=890%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/174298498
 Title: Meeting of the Minds: Collaborative Learning using Empathy in the Classroom or Office
 Start: Fri Aug 16 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Aug 16 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
@@ -707,7 +958,22 @@ Cleaned Location: 1201 5th St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1201 5th St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204
+Tags: academic, training, administrative, community engagement
 ---
+UID: http://uid.trumba.com/event/175289976
+Title: Back to School Hike
+Start: Sun Aug 18 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Mon Aug 19 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: Get ready to kick off the new school year on an adventurous note with MSU Denver Outdoor Pursuits&#8217; Back to School Hike! Join fellow students and experienced<br><br>guides for a rejuvenating day in nature before diving into your studies.
+URL: 
+Original Location: Off Campus
+Cleaned Location: Off Campus
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Off%20Campus
+Tags: academic, fitness
+---
+UID: http://uid.trumba.com/event/169437187
 Title: Fall 2024 Classes Begin (Full-Semester Classes)
 Start: Mon Aug 19 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 20 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -718,7 +984,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/174144151
 Title: 13th International conference on Epidemiology and Public health
 Start: Wed Aug 21 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Aug 21 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
@@ -729,7 +997,9 @@ Cleaned Location: Millennium Hotel Paris Charles De Gaulle, Address: Zone Hôtel
 Valid Location: maybe not
 Geocoded Address: 5 Rue Jean Moulin, 95470 Saint-Witz, France
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Millennium%20Hotel%20Paris%20Charles%20De%20Gaulle%2C%20Address%3A%20Zone%20H%C3%B4teli%C3%A8re%202%20All%C3%A9e%20Du%20Verger%20Roissy%20En%20France%2C%2095700%20Paris%2C%20France
+Tags: academic, fitness, community engagement, health and wellness
 ---
+UID: http://uid.trumba.com/event/175171241
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Aug 21 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Aug 21 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -737,8 +1007,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/161879358
 Title: Monthly Mug Club Happy Hour
 Start: Thu Aug 22 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Aug 22 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
@@ -749,7 +1023,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/174326143
 Title: MSU Denver Community Collab Summit
 Start: Fri Aug 23 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Aug 24 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -760,7 +1036,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: academic, training, professional development, technology, community engagement
 ---
+UID: http://uid.trumba.com/event/173052163
 Title: 100% Refund Deadline for Fall 2024 Full-Semester Courses
 Start: Mon Aug 26 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 27 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -771,7 +1049,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/173052187
 Title: Last Day to Self-Register for Fall 2024 (Full-Semester Courses)
 Start: Mon Aug 26 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Aug 27 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -782,7 +1062,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/175171242
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Aug 28 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Aug 28 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -790,8 +1072,25 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317318
+Title: MSU Denver Women&#39;s Volleyball vs MSU Denver Alumni
+Start: Sat Aug 31 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Aug 31 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs MSU Denver Alumni<br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9198&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9198&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9198&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/173052181
 Title: 50% Refund Deadline for Fall 2024 Full-Semester Courses (Census Date)
 Start: Wed Sep 04 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Sep 05 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -802,7 +1101,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/175171243
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Sep 04 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Sep 04 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -810,8 +1111,38 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317319
+Title: MSU Denver Women&#39;s Volleyball vs Central Washington
+Start: Thu Sep 05 2024 17:30:00 GMT-0600 (Mountain Daylight Time)
+End: Thu Sep 05 2024 19:30:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Central Washington<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9199&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9199&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9199&amp;sport_id=11
+Original Location: Bellingham, Wash.
+Cleaned Location: Bellingham, Wash.
+Valid Location: maybe not
+Geocoded Address: Bellingham, WA, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Bellingham%2C%20Wash.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317320
+Title: MSU Denver Women&#39;s Volleyball vs Sonoma State (Calif.)
+Start: Fri Sep 06 2024 13:30:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 06 2024 15:30:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Sonoma State (Calif.)<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9200&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9200&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9200&amp;sport_id=11
+Original Location: Bellingham, Wash.
+Cleaned Location: Bellingham, Wash.
+Valid Location: maybe not
+Geocoded Address: Bellingham, WA, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Bellingham%2C%20Wash.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/118261560
 Title: First Friday Art Walk
 Start: Fri Sep 06 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Sep 06 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
@@ -822,7 +1153,35 @@ Cleaned Location: Center for Visual Art, 965 Santa Fe Dr, Denver, CO
 Valid Location: yes
 Geocoded Address: 965 Santa Fe Dr, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Center%20for%20Visual%20Art%2C%20965%20Santa%20Fe%20Dr%2C%20Denver%2C%20CO
+Tags: arts and culture
 ---
+UID: http://uid.trumba.com/event/175317321
+Title: MSU Denver Women&#39;s Volleyball at Western Washington
+Start: Fri Sep 06 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 06 2024 22:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at Western Washington<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9201&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9201&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9201&amp;sport_id=11
+Original Location: Bellingham, Wash.
+Cleaned Location: Bellingham, Wash.
+Valid Location: maybe not
+Geocoded Address: Bellingham, WA, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Bellingham%2C%20Wash.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317322
+Title: MSU Denver Women&#39;s Volleyball vs San Francisco State
+Start: Sat Sep 07 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Sep 07 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs San Francisco State<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9202&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9202&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9202&amp;sport_id=11
+Original Location: Bellingham, Wash.
+Cleaned Location: Bellingham, Wash.
+Valid Location: maybe not
+Geocoded Address: Bellingham, WA, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Bellingham%2C%20Wash.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/174476409
 Title: Study Abroad Fair
 Start: Tue Sep 10 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Tue Sep 10 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
@@ -833,7 +1192,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: academic, training, technology, social
 ---
+UID: http://uid.trumba.com/event/175171244
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Sep 11 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Sep 11 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -841,8 +1202,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175091346
 Title: Prompt Engineering: Workshop 3 in the AI Empowerment in Higher Education Workshop Series
 Start: Fri Sep 13 2024 13:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Sep 13 2024 14:45:00 GMT-0600 (Mountain Daylight Time)
@@ -853,7 +1218,35 @@ Cleaned Location: 955 Lawrence Way, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: Plaza Building, 955 Lawrence Way, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=955%20Lawrence%20Way%2C%20Denver%2C%20CO%2080204
+Tags: academic, training, administrative, fitness, professional development, arts and culture, technology, community engagement
 ---
+UID: http://uid.trumba.com/event/175317323
+Title: MSU Denver Women&#39;s Volleyball vs Dallas Baptist
+Start: Fri Sep 13 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 13 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Dallas Baptist<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9203&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9203&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9203&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317324
+Title: MSU Denver Women&#39;s Volleyball vs Central Missouri
+Start: Fri Sep 13 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 13 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Central Missouri<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9204&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9204&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9204&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/173061553
 Title: Spring 2025 Graduation Application Opens
 Start: Sat Sep 14 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sun Sep 15 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -864,7 +1257,35 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175317326
+Title: MSU Denver Women&#39;s Volleyball vs TBA
+Start: Sat Sep 14 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Sep 15 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs TBA<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9206&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9206&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9206&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317325
+Title: MSU Denver Women&#39;s Volleyball vs TBA
+Start: Sat Sep 14 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sun Sep 15 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs TBA<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9205&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9205&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9205&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/171106110
 Title: Fall Fest
 Start: Wed Sep 18 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Sep 18 2024 14:00:00 GMT-0600 (Mountain Daylight Time)
@@ -875,7 +1296,9 @@ Cleaned Location: Lawrence St. Mall, Lawrence Way 101, Denver, Co 80204
 Valid Location: yes
 Geocoded Address: 101 Lawrence Way, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Lawrence%20St.%20Mall%2C%20Lawrence%20Way%20101%2C%20Denver%2C%20Co%2080204
+Tags: training, community engagement, food and drink, club
 ---
+UID: http://uid.trumba.com/event/175171245
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Sep 18 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Sep 18 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -883,8 +1306,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/161879359
 Title: Monthly Mug Club Happy Hour
 Start: Thu Sep 19 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Sep 19 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
@@ -895,7 +1322,35 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/175317327
+Title: MSU Denver Women&#39;s Volleyball at Colorado Christian
+Start: Fri Sep 20 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 20 2024 17:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at Colorado Christian<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9207&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9207&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9207&amp;sport_id=11
+Original Location: Lakewood, Colo.
+Cleaned Location: Lakewood, Colo.
+Valid Location: yes
+Geocoded Address: Lakewood, CO, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Lakewood%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317328
+Title: MSU Denver Women&#39;s Volleyball at Chadron State
+Start: Sat Sep 21 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Sep 21 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at Chadron State<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9208&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9208&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9208&amp;sport_id=11
+Original Location: Chadron, Neb.
+Cleaned Location: Chadron, Neb.
+Valid Location: maybe not
+Geocoded Address: Chadron, NE 69337, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Chadron%2C%20Neb.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171246
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Sep 25 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Sep 25 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -903,8 +1358,51 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317329
+Title: MSU Denver Women&#39;s Volleyball vs Colorado Mesa - HOMECOMING WEEKEND
+Start: Fri Sep 27 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Sep 27 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Colorado Mesa - HOMECOMING WEEKEND<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9209&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9209&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9209&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317330
+Title: MSU Denver Women&#39;s Volleyball vs Westminster - HOMECOMING WEEKEND
+Start: Sat Sep 28 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Sep 28 2024 17:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Westminster - HOMECOMING WEEKEND<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9210&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9210&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9210&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317331
+Title: MSU Denver Women&#39;s Volleyball vs Colorado Christian - FACULTY &amp; STAFF APPRECIATION NIGHT
+Start: Tue Oct 01 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Tue Oct 01 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Colorado Christian - FACULTY &amp; STAFF APPRECIATION NIGHT<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9214&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9214&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9214&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171247
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Oct 02 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 02 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -912,8 +1410,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/118261561
 Title: First Friday Art Walk
 Start: Fri Oct 04 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Oct 04 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
@@ -924,7 +1426,22 @@ Cleaned Location: Center for Visual Art, 965 Santa Fe Dr, Denver, CO
 Valid Location: yes
 Geocoded Address: 965 Santa Fe Dr, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Center%20for%20Visual%20Art%2C%20965%20Santa%20Fe%20Dr%2C%20Denver%2C%20CO
+Tags: arts and culture
 ---
+UID: http://uid.trumba.com/event/175317332
+Title: MSU Denver Women&#39;s Volleyball at Colorado School of Mines
+Start: Fri Oct 04 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Oct 04 2024 21:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at Colorado School of Mines<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9212&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9212&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9212&amp;sport_id=11
+Original Location: Golden, Colo.
+Cleaned Location: Golden, Colo.
+Valid Location: maybe not
+Geocoded Address: Golden, CO, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Golden%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/174898483
 Title: Working with Students on Prior Learning Assessments
 Start: Wed Oct 09 2024 10:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 09 2024 11:30:00 GMT-0600 (Mountain Daylight Time)
@@ -935,7 +1452,9 @@ Cleaned Location: 1201 5th St, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 1201 5th St, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=1201%205th%20St%2C%20Denver%2C%20CO%2080204
+Tags: academic, training, fitness, technology
 ---
+UID: http://uid.trumba.com/event/175171248
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Oct 09 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 09 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -943,8 +1462,25 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317333
+Title: MSU Denver Women&#39;s Volleyball at New Mexico Highlands
+Start: Sat Oct 12 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Oct 12 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at New Mexico Highlands<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9213&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9213&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9213&amp;sport_id=11
+Original Location: Las Vegas, N.M.
+Cleaned Location: Las Vegas, N.M.
+Valid Location: maybe not
+Geocoded Address: Las Vegas, NM 87701, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Las%20Vegas%2C%20N.M.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171249
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Oct 16 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 16 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -952,8 +1488,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/161879360
 Title: Monthly Mug Club Happy Hour
 Start: Thu Oct 17 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Oct 17 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
@@ -964,7 +1504,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/171995488
 Title: MSU Denver Research Symposium
 Start: Fri Oct 18 2024 09:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Oct 18 2024 15:00:00 GMT-0600 (Mountain Daylight Time)
@@ -975,7 +1517,48 @@ Cleaned Location: St. Cajetan's
 Valid Location: yes
 Geocoded Address: 101 Lawrence Way, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=St.%20Cajetan's
+Tags: academic, training
 ---
+UID: http://uid.trumba.com/event/175317334
+Title: MSU Denver Women&#39;s Volleyball vs Black Hills State
+Start: Fri Oct 18 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Oct 18 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Black Hills State<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9211&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9211&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9211&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317335
+Title: MSU Denver Women&#39;s Volleyball vs South Dakota Mines
+Start: Sat Oct 19 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Oct 19 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs South Dakota Mines<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9215&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9215&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9215&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317336
+Title: MSU Denver Women&#39;s Volleyball at Colorado School of Mines
+Start: Tue Oct 22 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
+End: Tue Oct 22 2024 21:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball at Colorado School of Mines<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9216&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9216&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9216&amp;sport_id=11
+Original Location: Golden, Colo.
+Cleaned Location: Golden, Colo.
+Valid Location: maybe not
+Geocoded Address: Golden, CO, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Golden%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171250
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Oct 23 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 23 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -983,8 +1566,38 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317337
+Title: MSU Denver Women&#39;s Volleyball vs Adams State
+Start: Fri Oct 25 2024 19:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Oct 25 2024 21:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Adams State<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9217&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9217&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9217&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317338
+Title: MSU Denver Women&#39;s Volleyball vs CSU Pueblo
+Start: Sat Oct 26 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Oct 26 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs CSU Pueblo<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9218&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9218&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9218&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/166701224
 Title: Spring 2025 Priority Registration Begins
 Start: Wed Oct 30 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Thu Oct 31 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -995,7 +1608,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: Uncategorized
 ---
+UID: http://uid.trumba.com/event/175171251
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Oct 30 2024 11:00:00 GMT-0600 (Mountain Daylight Time)
 End: Wed Oct 30 2024 12:00:00 GMT-0600 (Mountain Daylight Time)
@@ -1003,8 +1618,25 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317339
+Title: MSU Denver Women&#39;s Volleyball vs Regis - FAMILY WEEKEND
+Start: Thu Oct 31 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Thu Oct 31 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Regis - FAMILY WEEKEND<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9219&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9219&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9219&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/173052192
 Title: Deadline to Withdraw for Fall 2024 Full-Semester Courses
 Start: Fri Nov 01 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
 End: Sat Nov 02 2024 00:00:00 GMT-0600 (Mountain Daylight Time)
@@ -1015,7 +1647,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic
 ---
+UID: http://uid.trumba.com/event/118261562
 Title: First Friday Art Walk
 Start: Fri Nov 01 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
 End: Fri Nov 01 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
@@ -1026,7 +1660,35 @@ Cleaned Location: Center for Visual Art, 965 Santa Fe Dr, Denver, CO
 Valid Location: yes
 Geocoded Address: 965 Santa Fe Dr, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=Center%20for%20Visual%20Art%2C%20965%20Santa%20Fe%20Dr%2C%20Denver%2C%20CO
+Tags: arts and culture
 ---
+UID: http://uid.trumba.com/event/175317340
+Title: MSU Denver Women&#39;s Volleyball vs Regis vs. Colorado Mesa
+Start: Fri Nov 01 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+End: Fri Nov 01 2024 20:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Regis vs. Colorado Mesa<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9220&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9220&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9220&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317341
+Title: MSU Denver Women&#39;s Volleyball vs Colorado Mesa - FAMILY WEEKEND
+Start: Sat Nov 02 2024 16:00:00 GMT-0600 (Mountain Daylight Time)
+End: Sat Nov 02 2024 18:00:00 GMT-0600 (Mountain Daylight Time)
+Description: MSU Denver Women&#39;s Volleyball vs Colorado Mesa - FAMILY WEEKEND<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9221&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9221&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9221&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/172647924
 Title: November 5 Election
 Start: Tue Nov 05 2024 08:00:00 GMT-0700 (Mountain Standard Time)
 End: Tue Nov 05 2024 19:00:00 GMT-0700 (Mountain Standard Time)
@@ -1037,7 +1699,9 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: political
 ---
+UID: http://uid.trumba.com/event/175171252
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Nov 06 2024 11:00:00 GMT-0700 (Mountain Standard Time)
 End: Wed Nov 06 2024 12:00:00 GMT-0700 (Mountain Standard Time)
@@ -1045,8 +1709,38 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317342
+Title: MSU Denver Women&#39;s Volleyball at UCCS
+Start: Fri Nov 08 2024 19:00:00 GMT-0700 (Mountain Standard Time)
+End: Fri Nov 08 2024 21:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball at UCCS<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9222&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9222&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9222&amp;sport_id=11
+Original Location: Colorado Springs, Colo.
+Cleaned Location: Colorado Springs, Colo.
+Valid Location: maybe not
+Geocoded Address: Colorado Springs, CO, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Colorado%20Springs%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317343
+Title: MSU Denver Women&#39;s Volleyball vs Regis - SENIOR DAY
+Start: Sat Nov 09 2024 16:00:00 GMT-0700 (Mountain Standard Time)
+End: Sat Nov 09 2024 18:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball vs Regis - SENIOR DAY<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9223&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9223&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9223&amp;sport_id=11
+Original Location: Denver, Auraria Event Center
+Cleaned Location: Denver, Auraria Event Center
+Valid Location: yes
+Geocoded Address: Events Center/PE, 1255 10th St Plaza, Denver, CO 80204, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Denver%2C%20Auraria%20Event%20Center
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171253
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Nov 13 2024 11:00:00 GMT-0700 (Mountain Standard Time)
 End: Wed Nov 13 2024 12:00:00 GMT-0700 (Mountain Standard Time)
@@ -1054,8 +1748,51 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/175317344
+Title: MSU Denver Women&#39;s Volleyball at Western Colorado
+Start: Fri Nov 15 2024 18:00:00 GMT-0700 (Mountain Standard Time)
+End: Fri Nov 15 2024 20:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball at Western Colorado<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9224&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9224&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9224&amp;sport_id=11
+Original Location: Gunnison, Colo.
+Cleaned Location: Gunnison, Colo.
+Valid Location: maybe not
+Geocoded Address: Gunnison, CO 81230, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Gunnison%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317345
+Title: MSU Denver Women&#39;s Volleyball at Fort Lewis
+Start: Sat Nov 16 2024 14:00:00 GMT-0700 (Mountain Standard Time)
+End: Sat Nov 16 2024 16:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball at Fort Lewis<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9225&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9225&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9225&amp;sport_id=11
+Original Location: Durango, Colo.
+Cleaned Location: Durango, Colo.
+Valid Location: maybe not
+Geocoded Address: Durango, CO, USA
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Durango%2C%20Colo.
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317346
+Title: MSU Denver Women&#39;s Volleyball vs Quarterfinals
+Start: Tue Nov 19 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+End: Wed Nov 20 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball vs Quarterfinals<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9227&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9227&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9227&amp;sport_id=11
+Original Location: TBA
+Cleaned Location: TBA
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=TBA
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175171254
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Nov 20 2024 11:00:00 GMT-0700 (Mountain Standard Time)
 End: Wed Nov 20 2024 12:00:00 GMT-0700 (Mountain Standard Time)
@@ -1063,8 +1800,12 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
+UID: http://uid.trumba.com/event/161879361
 Title: Monthly Mug Club Happy Hour
 Start: Thu Nov 21 2024 16:00:00 GMT-0700 (Mountain Standard Time)
 End: Thu Nov 21 2024 18:00:00 GMT-0700 (Mountain Standard Time)
@@ -1075,7 +1816,35 @@ Cleaned Location: 900 Auraria Pkwy, Denver, CO 80204
 Valid Location: yes
 Geocoded Address: 900 Auraria Pkwy, Denver, CO 80204, USA
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=900%20Auraria%20Pkwy%2C%20Denver%2C%20CO%2080204
+Tags: club
 ---
+UID: http://uid.trumba.com/event/175317347
+Title: MSU Denver Women&#39;s Volleyball vs Semifinals
+Start: Fri Nov 22 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+End: Sat Nov 23 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball vs Semifinals<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9228&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9228&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9228&amp;sport_id=11
+Original Location: TBA
+Cleaned Location: TBA
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=TBA
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175317348
+Title: MSU Denver Women&#39;s Volleyball vs Championship
+Start: Sat Nov 23 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+End: Sun Nov 24 2024 00:00:00 GMT-0700 (Mountain Standard Time)
+Description: MSU Denver Women&#39;s Volleyball vs Championship<br>Streaming Video: <a href=https://www.roadrunnersall-access.com/ target=_blank rel=noopener>www.roadrunnersall-access.com</a><br> <a href=https://roadrunnersathletics.com/calendar.aspx?game_id=9226&sport_id=11 target=_blank rel=noopener title=https://roadrunnersathletics.com/calendar.aspx?game_id=9226&sport_id=11>roadrunnersathletics.com&#8230;</a>
+URL: https://roadrunnersathletics.com/calendar.aspx?game_id=9226&amp;sport_id=11
+Original Location: TBA
+Cleaned Location: TBA
+Valid Location: no
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=TBA
+Tags: sports
+---
+UID: http://uid.trumba.com/event/175058222
 Title: Student Fall Break (No Classes all week. Campus is open, but office hours will vary from department to department)
 Start: Mon Nov 25 2024 00:00:00 GMT-0700 (Mountain Standard Time)
 End: Mon Dec 02 2024 00:00:00 GMT-0700 (Mountain Standard Time)
@@ -1086,7 +1855,9 @@ Cleaned Location:
 Valid Location: no
 Geocoded Address: 
 Google Maps URL: https://www.google.com/maps/search/?api=1&query=
+Tags: academic, administrative
 ---
+UID: http://uid.trumba.com/event/175171255
 Title: Banner Schedule Creation Training/Review for Departments
 Start: Wed Nov 27 2024 11:00:00 GMT-0700 (Mountain Standard Time)
 End: Wed Nov 27 2024 12:00:00 GMT-0700 (Mountain Standard Time)
@@ -1094,5 +1865,8 @@ Description: Schedule creation and best practices for department schedulers. Als
 URL: https://msudenver.sharepoint.com/sites/DepartmentClassSchedule
 Original Location: Microsoft Teams meeting <br>Join on your computer, mobile app or room device <br>Click here to join the meeting <br>Meeting ID: 239 210 009 06 <br>Passcode: UckpnZ <br>Download Teams | Join on the web
 Cleaned Location: Microsoft Teams meeting , Join on your computer, mobile app or room device , Click here to join the meeting , Meeting ID: 239 210 009 06 , Passcode: UckpnZ , Download Teams | Join on the web
-Valid Location: remote
+Valid Location: valid and remote
+Geocoded Address: 
+Google Maps URL: https://www.google.com/maps/search/?api=1&query=Microsoft%20Teams%20meeting%20%2C%20Join%20on%20your%20computer%2C%20mobile%20app%20or%20room%20device%20%2C%20Click%20here%20to%20join%20the%20meeting%20%2C%20Meeting%20ID%3A%20239%20210%20009%2006%20%2C%20Passcode%3A%20UckpnZ%20%2C%20Download%20Teams%20%7C%20Join%20on%20the%20web
+Tags: training
 ---
